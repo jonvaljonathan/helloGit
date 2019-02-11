@@ -1,2 +1,0 @@
-# helloGit
-GitHub Tutorial
